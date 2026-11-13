@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 245, 229);
+}
+
+.container {    
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(151, 177, 168);
+    border-radius: 12px;
+    box-shadow:  0px 7px 9px rgba(0, 0, 0, 0.20);
+}
+
+button {
+    background: rgb(187, 230, 101);
+    border-radius: 12px;
+    border: 0px solid red;
+}
+
+button:hover {
+    background: rgb(127, 156, 138);
+}
+a {
+    text-decoration: none;
+    border: 0px solid rgb(151, 177, 168);
+}
+
+input {
+    box-shadow:  0px 7px 9px rgba(0, 0, 0, 0.20);
+    border: 0px solid red;
+}

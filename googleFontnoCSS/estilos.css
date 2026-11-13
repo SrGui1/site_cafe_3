@@ -1,0 +1,119 @@
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+p, a {
+    font-family: 'Nunito', sans-serif;
+}
+
+.texto, p {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+    font-style: italic;
+    font-weight: 400;
+}
+
+nav a {
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+  background: #faf1e0;
+}
+
+.roda {
+  border:2px solid #5a3522;
+  text-align: center;
+}
+
+.t1 {
+    border:2px solid #5a3522;
+    text-align: center;
+    margin-top: 200px;
+    background: #f2dfc4;
+    padding: 5px;
+}
+
+.t2 {
+    border:2px solid #5a3522;
+    text-align: center;
+    margin-top: 200px;
+    background: #f2dfc4;
+    padding: 5px;
+}
+
+.t3 {
+    border:2px solid #5a3522;
+    text-align: center;
+    margin-top: 200px;
+    background: #f2dfc4;
+    padding: 5px;
+}
+
+.nav {
+    text-align: center;
+    border: 2px solid #5a3522;
+    background: #f2dfc4;
+    padding: 2px;
+    margin-left: 900px;
+    margin-right: 900px;
+}
+
+img {
+  width: 200px;
+  border-radius: 12px;
+}
+
+.secao {
+  padding: 6px;
+  border:2px solid #5a3522;
+  border-radius: 12px;
+  background: #f2dfc4;
+  margin-top: 12px;
+}
+
+#cofe1 {
+    border-bottom:1px solid #5a3522;
+    background: #f2dfc4;
+    border-radius: 12px;
+    display: flex;
+    
+}
+
+#cofe1:hover {
+    border-bottom:3px solid #5a3522;
+    cursor: pointer;
+}
+
+#cofe2 {
+    border-bottom:1px solid #5a3522;
+    background: #f2dfc4;
+    border-radius: 12px;
+    display: flex;
+    margin-top: 12px;
+}
+
+#cofe2:hover {
+      border-bottom:3px solid #5a3522;
+      cursor: pointer;
+}
+
+#cofe3 {
+    border-bottom:1px solid #5a3522;
+    background: #f2dfc4;
+    border-radius: 12px;
+    display: flex;
+    margin-top: 12px;
+}
+
+#cofe3:hover {
+      border-bottom:3px solid #5a3522;
+      cursor: pointer;
+}
